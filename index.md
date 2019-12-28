@@ -2,8 +2,11 @@
 
 ### Contact information
 Name: Tuan Minh Nguyen
+
 Email: tuan.minh.nguyen@wayne.edu
+
 LinkedIn: https://www.linkedin.com/in/tuanminh-nguyen/
+
 
 ### About
 
