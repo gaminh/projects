@@ -1,9 +1,9 @@
 ## Tuan Minh Nguyen's
 
 ### Contact information
-Name: Tuan Minh Nguyen \
-Email: tuan.minh.nguyen@wayne.edu \
-LinkedIn: https://www.linkedin.com/in/tuanminh-nguyen/ \
+Name: Tuan Minh Nguyen <br/>
+Email: tuan.minh.nguyen@wayne.edu <br/>
+LinkedIn: https://www.linkedin.com/in/tuanminh-nguyen/ <br/>
 
 
 ### About
